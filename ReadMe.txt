@@ -1,5 +1,3 @@
-# MMDataEx
-
 Supporting documentation
 
 Task 1 assumptions
